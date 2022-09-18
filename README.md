@@ -1,7 +1,7 @@
 # ETDM
 
-![Python 3.6]
-![PyTorch 1.1]
+[Python 3.6]
+[PyTorch 1.1]
 
 # Look Back and Forth: Video Super-Resolution with Explicit Temporal Difference Modeling (ETDM)
 
