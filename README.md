@@ -4,7 +4,6 @@
 
 The *official* implementation for the [ETDM] which is accepted by [CVPR 2022].
 
-! [framework] (figs/framework.png)
 
 ### Train
 We utilize 4 V100 GPUs for training.
