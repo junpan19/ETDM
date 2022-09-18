@@ -1,5 +1,8 @@
 # ETDM
 
+![Python 3.6]
+![PyTorch 1.1]
+
 # Look Back and Forth: Video Super-Resolution with Explicit Temporal Difference Modeling (ETDM)
 
 The *official* implementation for the [ETDM] which is accepted by [CVPR 2022].
