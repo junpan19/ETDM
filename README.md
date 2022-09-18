@@ -8,7 +8,8 @@ The *official* implementation for the [ETDM] which is accepted by [CVPR 2022].
 ### Train
 We utilize 4 V100 GPUs for training.
 ```
-python main.py
+cd ETDM-CVPR2022
+python main.py (add the vimeo dataset path in main.py)
 
 ```
 
@@ -16,5 +17,6 @@ python main.py
 We utilize 1 V100 GPU for testing.
 Test the trained model with best performance by
 ```
-python test.py
+cd ETDM-CVPR2022 
+python test.py (add the test dataset path in test.py)
 ```
